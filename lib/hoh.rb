@@ -31,6 +31,13 @@
 # }
 
 def naming_system
+  hash_of_hashes = {
+    
+    
+    
+    
+  }
+  
   # Remember:
   #  Kingdom
   #  Phylum
