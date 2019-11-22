@@ -32,7 +32,7 @@
 
 def naming_system
   hash_of_hashes = {
-    "Kingdom" = {
+    "Kingdom" => {
       :label => "Kingdom",
       :sub_category => {
         :label => "Phylum",
